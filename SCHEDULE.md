@@ -104,7 +104,16 @@ Outline:
 - `npm`, `yarn`, `pip`, and `cargo`
 - `pipenv` and `nvm`
 
-## April 17 - Week 10: Programming Languages
+## April 17 - Week 10: Debugging and Profiling
+
+- Configuring VSCode's visual debugger
+- Breakpoints
+- Step over, step into, continue, restart
+- Practice debugging
+- Logging
+- Reading profiler results
+
+## April 24 - Week 11: Programming Languages
 
 - Data formats
   - CSV
@@ -114,20 +123,15 @@ Outline:
   - TOML
   - XML
 - Interpreted vs. JIT vs. Compiled Languages
-- Scripting Languages
-  - Bash
-  - Python
-- Compiled Languages
-  - C/C++
-  - Rust/Go
 - Architecture and ASM
 - Garbage collectors, borrow checkers, manual memory management
-
-## April 24 - Week 11: Browsers and the Internet
-
-- WiFi, Ethernet, routers, IP addresses, ports, domain names
-- UMass VPN
-- Developer console
+- Languages - Resources and Applications
+  - Bash
+  - Python
+  - JavaScript/TypeScript
+  - Java/Kotlin
+  - C/C++
+  - Rust/Go
 
 ## May 1 - Week 12: LaTeX
 
@@ -140,11 +144,8 @@ Outline:
 - TiKz
 - Templates
 
-## May 8 - Week 13: Debugging and Profiling in VSCode
+## May 8 - Week 13: Seeking Help and Asking Questions
 
-- Configuring VSCode's visual debugger
-- Breakpoints
-- Step over, step into, continue, restart
-- Practice debugging
-- Logging
-- Reading profiler results
+- How to Google
+- ChatGPT
+- How to ask questions and communicate
