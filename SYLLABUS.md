@@ -46,7 +46,7 @@ The objective of this course is to introduce students to common technical tools 
   - Forks
   - `push`/`push`/`remotes`/`merge`
 - Editors
-  - VSCode, (Neo)Vim, Emacs, Fleet
+  - VSCode, (Neo)Vim, Emacs
   - Configuration
 - Pattern Matching
   - RegExp

@@ -2,48 +2,109 @@
 
 ## February 6 - Week 1: Overview and Setup
 
-- File Systems
+Outline:
+
+- UNIX File Systems
+  - Files
+    - Formats
+    - Encoding
+    - EOF (`C-d`)
+  - Links
+  - Permissions
 - WSL
 
 ## February 13 - Week 2: The Shell
 
-- Description of what a shell is
-- How to interact with it
-- Current Working Directory
-- Command Line Arguments
-- Relative vs. Absolute Paths
-- basic unix commands
+Outline:
+
+- Description of a shell
+- Interacting with the shell
+  - Current working directory
+  - Commands
+  - Command line arguments
+- Relative vs. absolute paths
+- Manual Pages
+- Interacting with the file system
+  - `pwd`, `cd`, `ls`, `mv`, `cp`, `rm`, `chmod`
+- Practice using commands
 
 ## February 20 - Week 3: More Shell Commands
 
-- More UNIX Commands
+Outline:
+
+- Flags
+- Reading manual pages
+- Inspecting
+  - `cat`, `less`, `mkdir`, `touch`
 - Piping
-- Environment variables
-- PATH
+- Formatting output
+  - `head`, `tail`, `sort`
+- Practice with piping
 
 ## February 27 - Week 4: Advanced Shell Usage
 
+Outline:
+
+- Finding information
+  - `which`, `whereis`, `locate`, `find`, `file`
+- Environment
+  - `echo`, `printenv`, `env`, `export`, `set`, `unset`
+- PATH
+- Miscellaneous commands
+  - `(h)top`, `kill`, `sudo`, `wc`, `diff`
+
 ## March 6 - Week 5: Editors
 
-- VSCode
-- Vim (NeoVim)
-- Emacs
+- Outline:
 
-## March 20 - Week 6: Cryptography, `ssh`, and Remote Development
+- Vim
+  - Practice with `vimtutor`
+- Emacs
+  - Practice with Emacs Tutorial (`C-h t`)
+  - Org mode
+- VSCode
+  - Extensions
+  - Vim and Emacs emulation
+
+## March 20 - Week 6: Cryptography and Remote Development
+
+Outline:
+
+- Basic idea of cryptography
+  - OpenSSL
+- Hashes
+- GUID/UUID
+- `ssh` and `ssh-keygen`
+- Setup keys on Elnux
+- Setup remote development in VSCode
 
 ## March 27 - Week 7: Git
 
+Outline:
+
+- Version control
+- Git trees
+- Branching and merging
+- `add`, `commit`, `status`, `log`, `branch`, `diff`, `merge`
+- Practice with `git`
+- VSCode git integration
+
 ## April 3 - Week 8: Collaboration and Github
+
+- Github
+- Repositories
+- `push`/`pull`/`remotes`/`stash`
+- Forks
+- Continuous integration
 
 ## April 10 - Week 9: Package and Version Managers
 
-- apt, pacman, and brew
-- npm, yarn, pip, and cargo
-- pipenv and nvm
+- Registries
+- `apt`, `pacman`, and `brew`
+- `npm`, `yarn`, `pip`, and `cargo`
+- `pipenv` and `nvm`
 
-## April 17 - Week 10: Scripting Languages
-
-## April 24 - Week 11: Programming Languages
+## April 17 - Week 10: Programming Languages
 
 - Data formats
   - CSV
@@ -52,20 +113,38 @@
   - YAML
   - TOML
   - XML
+- Interpreted vs. JIT vs. Compiled Languages
 - Scripting Languages
-  - Python
-  - sed
   - Bash
+  - Python
 - Compiled Languages
   - C/C++
   - Rust/Go
 - Architecture and ASM
-- Interpreted vs. Compiled Languages
 - Garbage collectors, borrow checkers, manual memory management
+
+## April 24 - Week 11: Browsers and the Internet
+
+- WiFi, Ethernet, routers, IP addresses, ports, domain names
+- UMass VPN
+- Developer console
 
 ## May 1 - Week 12: LaTeX
 
-- Why
+- Editors
+  - VSCode
+  - Overleaf
+- Documents
+- Formulas
+- Commands
 - TiKz
+- Templates
 
 ## May 8 - Week 13: Debugging and Profiling in VSCode
+
+- Configuring VSCode's visual debugger
+- Breakpoints
+- Step over, step into, continue, restart
+- Practice debugging
+- Logging
+- Reading profiler results
