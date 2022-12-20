@@ -52,6 +52,9 @@ Outline:
 - PATH
 - Miscellaneous commands
   - `(h)top`, `kill`, `sudo`, `wc`, `diff`
+- Pattern Matching
+  - `grep`
+  - Regular expressions
 
 ## March 6 - Week 5: Editors
 
@@ -91,6 +94,8 @@ Outline:
 
 ## April 3 - Week 8: Collaboration and Github
 
+Outline:
+
 - Github
 - Repositories
 - `push`/`pull`/`remotes`/`stash`
@@ -99,12 +104,16 @@ Outline:
 
 ## April 10 - Week 9: Package and Version Managers
 
+Outline:
+
 - Registries
 - `apt`, `pacman`, and `brew`
 - `npm`, `yarn`, `pip`, and `cargo`
 - `pipenv` and `nvm`
 
 ## April 17 - Week 10: Debugging and Profiling
+
+Outline:
 
 - Configuring VSCode's visual debugger
 - Breakpoints
@@ -114,6 +123,8 @@ Outline:
 - Reading profiler results
 
 ## April 24 - Week 11: Programming Languages
+
+Outline:
 
 - Data formats
   - CSV
@@ -135,6 +146,8 @@ Outline:
 
 ## May 1 - Week 12: LaTeX
 
+Outline:
+
 - Editors
   - VSCode
   - Overleaf
@@ -146,6 +159,9 @@ Outline:
 
 ## May 8 - Week 13: Seeking Help and Asking Questions
 
+Outline:
+
 - How to Google
 - ChatGPT
 - How to ask questions and communicate
+  - Stackoverflow "How to write a good question"
