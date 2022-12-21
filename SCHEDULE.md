@@ -1,5 +1,20 @@
 # Schedule
 
+## Index
+
+- [February 6 - Week 1: Overview and Setup](#february-6---week-1-overview-and-setup)
+- [February 13 - Week 2: The Shell]()
+- [February 20 - Week 3: More Shell Commands]()
+- [February 27 - Week 4: Advanced Shell Usage]()
+- [March 6 - Week 5: Editors]()
+- [March 20 - Week 6: Cryptography and Remote Development]()
+- [April 3 - Week 8: Collaboration and Github]()
+- [April 10 - Week 9: Package and Version Managers]()
+- [April 17 - Week 10: Debugging and Profiling]()
+- [April 24 - Week 11: Programming Languages]()
+- [May 1 - Week 12: LaTeX]()
+- [May 8 - Week 13: Seeking Help and Asking Questions]()
+
 ## February 6 - Week 1: Overview and Setup
 
 - Outline:
