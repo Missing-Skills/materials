@@ -2,26 +2,22 @@
 
 ## February 6 - Week 1: Overview and Setup
 
-Outline:
+- Outline:
 
-- Number systems
-  - Base 2, 8, 10, 16
-  - Bitwise operators
-  - Endianess
-- Bits vs. Bytes
-- Units and Powers
-  - thousand, million, billion, trillion, quadrillion
-  - kilo, mega, giga, tera, peta
-- UNIX File Systems
-  - Files
-    - Content vs. Metadata
-    - Permissions
-    - Formats
-    - Encoding
-      - ASCII vs. UTF-8
-  - Directories
-  - Links
-- WSL
+  - UNIX File Systems
+    - Files
+      - Content vs. Metadata
+      - Permissions
+      - Formats
+      - Encoding
+        - ASCII vs. UTF-8
+    - Directories
+    - Links
+  - WSL
+
+- [Notes](./notes/WEEK_01.md)
+- [Slides](https://google.com)
+- [Assignment 01: Bit, Bytes, Powers, and Units](./assignments/ASSIGNMENT_01.md)
 
 ## February 13 - Week 2: The Shell
 
