@@ -32,7 +32,9 @@ Outline:
   - Current working directory
   - Commands
   - Command line arguments
+  - ^C, ^D
 - Relative vs. absolute paths
+  - `.`, `..`, `/`, `~`
 - Manual Pages
 - Interacting with the file system
   - `pwd`, `cd`, `ls`, `mv`, `cp`, `rm`, `chmod`
@@ -44,9 +46,13 @@ Outline:
 
 - Flags
 - Reading manual pages
-- Inspecting
-  - `cat`, `less`, `mkdir`, `touch`
+- Viewing content
+  - `cat`, `less`, `nano`
+- Creating files
+  - `mkdir`, `touch`
 - Piping
+  - To and from files
+  - To and from other commands
 - Formatting output
   - `head`, `tail`, `sort`
 - Practice with piping
@@ -72,6 +78,9 @@ Outline:
 
 - Vim
   - Practice with `vimtutor`
+  - Commands
+  - Searching and substituting
+  - NeoVim
 - Emacs
   - Practice with Emacs Tutorial (`C-h t`)
   - Org mode
@@ -83,12 +92,14 @@ Outline:
 
 Outline:
 
-- Basic idea of cryptography
+- Cryptography
   - OpenSSL
+- Encryption and decryption
 - Hashes
-- GUID/UUID
+  - `md5sum`, `shasum`
+- UUID
 - `ssh` and `ssh-keygen`
-- Setup keys on Elnux
+- Setup keys locally and on Elnux
 - Setup remote development in VSCode
 
 ## March 27 - Week 7: Git
@@ -100,7 +111,7 @@ Outline:
 - Branching and merging
 - `add`, `commit`, `status`, `log`, `branch`, `diff`, `merge`
 - Practice with `git`
-- VSCode git integration
+- VSCode Git integration
 
 ## April 3 - Week 8: Collaboration and Github
 
@@ -111,6 +122,8 @@ Outline:
 - `push`/`pull`/`remotes`/`stash`
 - Forks
 - Continuous integration
+- Authenticating with Github
+- Signing into Github on VSCode
 
 ## April 10 - Week 9: Package and Version Managers
 
@@ -125,6 +138,7 @@ Outline:
 
 Outline:
 
+- Reading error messages and stacktraces
 - Configuring VSCode's visual debugger
 - Breakpoints
 - Step over, step into, continue, restart
@@ -144,6 +158,7 @@ Outline:
   - TOML
   - XML
 - Interpreted vs. JIT vs. Compiled Languages
+- Heap vs. Stack
 - Architecture and ASM
 - Garbage collectors, borrow checkers, manual memory management
 - Languages - Resources and Applications
@@ -158,7 +173,7 @@ Outline:
 
 Outline:
 
-- Editors
+- Configuring Editors
   - VSCode
   - Overleaf
 - Documents
