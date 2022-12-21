@@ -3,7 +3,7 @@
 ## Index
 
 - [February 6 - Week 1: Overview and Setup](#february-6---week-1-overview-and-setup)
-- [February 13 - Week 2: The Shell]()
+- [February 13 - Week 2: The Shell](## February 13 - Week 2: The Shell)
 - [February 20 - Week 3: More Shell Commands]()
 - [February 27 - Week 4: Advanced Shell Usage]()
 - [March 6 - Week 5: Editors]()
@@ -85,7 +85,7 @@ Outline:
 
 ## March 6 - Week 5: Editors
 
-- Outline:
+Outline:
 
 - Vim
   - Practice with `vimtutor`
@@ -112,7 +112,6 @@ Outline:
 - `ssh` and `ssh-keygen`
 - Setup keys locally and on Elnux
 - Setup remote development in VSCode
-
 - [Assignment 06: Playing Eve](./assignments/ASSIGNMENT_06.md)
 
 ## March 27 - Week 7: Git
