@@ -3,7 +3,7 @@
 ## Index
 
 - [February 6 - Week 1: Overview and Setup](#february-6---week-1-overview-and-setup)
-- [February 13 - Week 2: The Shell](## February 13 - Week 2: The Shell)
+- [February 13 - Week 2: The Shell](#february-13---week-2-the-shell)
 - [February 20 - Week 3: More Shell Commands]()
 - [February 27 - Week 4: Advanced Shell Usage]()
 - [March 6 - Week 5: Editors]()
