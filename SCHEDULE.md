@@ -113,6 +113,8 @@ Outline:
 - Setup keys locally and on Elnux
 - Setup remote development in VSCode
 
+- [Assignment 06: Playing Eve](./assignments/ASSIGNMENT_06.md)
+
 ## March 27 - Week 7: Git
 
 Outline:
