@@ -4,13 +4,23 @@
 
 Outline:
 
+- Number systems
+  - Base 2, 8, 10, 16
+  - Bitwise operators
+  - Endianess
+- Bits vs. Bytes
+- Units and Powers
+  - thousand, million, billion, trillion, quadrillion
+  - kilo, mega, giga, tera, peta
 - UNIX File Systems
   - Files
+    - Content vs. Metadata
+    - Permissions
     - Formats
     - Encoding
-    - EOF (`C-d`)
+      - ASCII vs. UTF-8
+  - Directories
   - Links
-  - Permissions
 - WSL
 
 ## February 13 - Week 2: The Shell
