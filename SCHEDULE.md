@@ -4,16 +4,16 @@
 
 - [February 6 - Week 1: Overview and Setup](#february-6---week-1-overview-and-setup)
 - [February 13 - Week 2: The Shell](#february-13---week-2-the-shell)
-- [February 20 - Week 3: More Shell Commands]()
-- [February 27 - Week 4: Advanced Shell Usage]()
-- [March 6 - Week 5: Editors]()
-- [March 20 - Week 6: Cryptography and Remote Development]()
-- [April 3 - Week 8: Collaboration and Github]()
-- [April 10 - Week 9: Package and Version Managers]()
-- [April 17 - Week 10: Debugging and Profiling]()
-- [April 24 - Week 11: Programming Languages]()
-- [May 1 - Week 12: LaTeX]()
-- [May 8 - Week 13: Seeking Help and Asking Questions]()
+- [February 20 - Week 3: More Shell Commands](#february-20---week-3-more-shell-commands)
+- [February 27 - Week 4: Advanced Shell Usage](#february-27---week-4-advanced-shell-usage)
+- [March 6 - Week 5: Editors](#march-6---week-5-editors)
+- [March 20 - Week 6: Cryptography and Remote Development](#march-20---week-6-cryptography-and-remote-development)
+- [April 3 - Week 8: Collaboration and Github](#march-27---week-7-git)
+- [April 10 - Week 9: Package and Version Managers](#april-10---week-9-package-and-version-managers)
+- [April 17 - Week 10: Debugging and Profiling](#april-17---week-10-debugging-and-profiling)
+- [April 24 - Week 11: Programming Languages](#april-24---week-11-programming-languages)
+- [May 1 - Week 12: LaTeX](#may-1---week-12-latex)
+- [May 8 - Week 13: Seeking Help and Asking Questions](#may-8---week-13-seeking-help-and-asking-questions)
 
 ## February 6 - Week 1: Overview and Setup
 
