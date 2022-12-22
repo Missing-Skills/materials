@@ -82,6 +82,7 @@ Outline:
 - Pattern Matching
   - `grep`
   - Regular expressions
+- Globbing
 
 ## March 6 - Week 5: Editors
 
