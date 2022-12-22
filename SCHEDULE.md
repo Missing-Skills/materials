@@ -32,7 +32,7 @@
 
 - [Notes](./notes/WEEK_01.md)
 - [Slides](https://google.com)
-- [Assignment 01: Bit, Bytes, Powers, and Units](./assignments/ASSIGNMENT_01.md)
+- [Assignment 01: Bits, Bytes, and Units](./assignments/ASSIGNMENT_01.md)
 
 ## February 13 - Week 2: The Shell
 
